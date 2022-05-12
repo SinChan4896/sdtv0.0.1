@@ -1,5 +1,5 @@
-How to write the doc?
-=====================
+How to write a doc
+==================
 
 .. _howToStart-cre-table:
 
