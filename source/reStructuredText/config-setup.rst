@@ -32,4 +32,8 @@ Step 2: Add username same in Github
 
 .. image:: |Error 404| img/reStructuredText/conf-setup3.png
     :width: 400
-    :alt: User Setup
+    :alt: User Setuppp
+
+.. image:: |Error 404| /img/reStructuredText/conf-setup3.png
+    :width: 400
+    :alt: User Setupdfgdfg
