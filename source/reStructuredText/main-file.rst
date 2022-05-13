@@ -2,7 +2,7 @@ VS Code Main Files Settings
 ===========================
 
 About the `conf.py`
-===================
+-------------------
 
 **conf.py** ::
 
@@ -66,4 +66,3 @@ About the `conf.py`
     # so a file named "default.css" will overwrite the builtin "default.css".
     html_static_path = ['_static']
 
-hihi

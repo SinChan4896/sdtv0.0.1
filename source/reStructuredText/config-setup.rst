@@ -26,14 +26,7 @@ Step 2: Add username same in Github
 
 ``git config --global user.name "Tek"``
 
-.. image:: /img/reStructuredText/conf-setup2.png
+.. image:: /img/reStructuredText/conf-setup4.png
     :width: 400
     :alt: User Setup
 
-.. image:: |Error 404| img/reStructuredText/conf-setup3.png
-    :width: 400
-    :alt: User Setuppp
-
-.. image:: |Error 404| /img/reStructuredText/conf-setup3.png
-    :width: 400
-    :alt: User Setupdfgdfg
