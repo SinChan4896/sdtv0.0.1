@@ -9,13 +9,13 @@ Dont know how to start? Click here
 In Setting
 ==========
 
-#. in tab
-
 .. image:: /img/reStructuredText/conf-setup1.PNG
     :width: 650
     :alt: User Setup
 
-#. in terminal
+
+In Terminal
+===========
 
 .. image:: /img/reStructuredText/conf-setup2.png
     :width: 650
