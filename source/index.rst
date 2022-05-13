@@ -25,8 +25,6 @@ Hi this is a testttttt.::
    :maxdepth: 2
    :caption: BASIC SETUP:
 
-   Options/justLogic
-   Options/justCode
    reStructuredText/config-setup
    reStructuredText/how-to-start
    reStructuredText/main-file
@@ -39,8 +37,6 @@ Hi this is a testttttt.::
    :hidden: 
    :caption: Contents:
 
-   Options/justLogic
-   Options/justCode
-   Module/Core Module/Property Sales/workflow
+   Module/CoreModule/PropertySales/workflow
 
 
