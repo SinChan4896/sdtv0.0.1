@@ -6,7 +6,7 @@ About the `conf.py`
 
 .. image:: /img/reStructuredText/main-file1.png
     :width: 400
-    :alt: conf.py setup.
+    :alt: conf.py setup
 
 
 **conf.py** ::
