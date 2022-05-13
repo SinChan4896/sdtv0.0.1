@@ -4,16 +4,16 @@ Property Sales Module
 This is a workflow for ``Property Sales`` Module.
 
 How it works
-============
+------------
 
-.. image:: /img/Core Module/Property Sales/workflow-property-sales3.png
+.. image:: /img/CoreModule/PropertySales/workflow-property-sales3.png
     :width: 400
-    :alt: Workflow for Property Salesss
+    :alt: Workflow for Property Salexx
 
 Workflow
 --------
 
-.. image:: img/Core Module/Property Sales/workflow-property-sales4.png
+.. image:: img/CoreModule/PropertySales/workflow-property-sales4.png
     :width: 400
-    :alt: Workflow for Property Sales111
+    :alt: Workflow for Property Sales121212
 
