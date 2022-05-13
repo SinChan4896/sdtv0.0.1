@@ -4,9 +4,9 @@ VS Code Main Files Settings
 About the `conf.py`
 ===================
 
-.. image:: /img/reStructuredText/main-file1.png
-    :width: 400
-    :alt: conf.py setup
+.. image:: /img/reStructuredText/config-github3.png
+    :width: 650
+    :alt: Github Setup
 
 
 **conf.py** ::
