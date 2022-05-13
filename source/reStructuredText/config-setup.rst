@@ -11,7 +11,7 @@ In Setting
 
 #. in tab
 
-.. image:: /img/reStructuredText/conf-setup1.png
+.. image:: /img/reStructuredText/conf-setup1.PNG
     :width: 650
     :alt: User Setup
 
