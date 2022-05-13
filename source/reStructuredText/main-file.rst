@@ -1,5 +1,5 @@
-VS Code Main Files Settings
-===========================
+VS Code Settings
+================
 
 About the `conf.py`
 -------------------
