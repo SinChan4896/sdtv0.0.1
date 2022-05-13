@@ -35,8 +35,15 @@ Hi this is a testttttt.::
 .. toctree::
    :maxdepth: 2
    :hidden: 
-   :caption: Contents:
+   :caption: CODE MODULE:
 
-   Module/CoreModule/PropertySales/workflow
+   Module/Core Module/Property Sales/workflow
 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden: 
+   :caption: CUSTOME MODULE:
+
+   Module/Core Module/Property Sales/workflow
 
