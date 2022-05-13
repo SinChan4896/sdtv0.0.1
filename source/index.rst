@@ -29,6 +29,7 @@ Hi this is a testttttt.::
    reStructuredText/how-to-start
    reStructuredText/main-file
    reStructuredText/config-github
+   reStructuredText/config-choco
    
 
 
