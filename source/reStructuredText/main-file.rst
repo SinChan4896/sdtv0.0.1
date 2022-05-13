@@ -4,7 +4,7 @@ VS Code Main Files Settings
 About the `conf.py`
 ===================
 
-.. image:: vscode-main-file-conf-py.png
+.. image:: /img/reStructuredText/main-file1.png
     :width: 400
     :alt: conf.py setup.
 

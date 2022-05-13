@@ -30,6 +30,7 @@ Hi this is a testttttt.::
    reStructuredText/config-setup
    reStructuredText/how-to-start
    reStructuredText/main-file
+   reStructuredText/config-github
    Module/Core Module/Property Sales/workflow
 
 
