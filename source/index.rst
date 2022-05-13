@@ -31,7 +31,7 @@ Hi this is a testttttt.::
    reStructuredText/how-to-start
    reStructuredText/main-file
    reStructuredText/config-github
-   Module/Core Module/Property Sales/workflow
+   
 
 
 .. toctree::
@@ -41,13 +41,6 @@ Hi this is a testttttt.::
 
    Options/justLogic
    Options/justCode
-   
-.. Indices and tables
-.. ==================
+   Module/Core Module/Property Sales/workflow
 
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
-
-${workspaceFolder}\source
 
