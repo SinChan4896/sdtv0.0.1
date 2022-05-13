@@ -4,11 +4,6 @@ VS Code Main Files Settings
 About the `conf.py`
 ===================
 
-.. image:: /img/reStructuredText/main-file1.png
-    :width: 650
-    :alt: Github Setup
-
-
 **conf.py** ::
 
     # Configuration file for the Sphinx documentation builder.

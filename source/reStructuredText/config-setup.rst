@@ -6,35 +6,17 @@ Dont know how to start? Click here
     - :ref:`Create Links <howToStart-cre-links>`
 
 
-tab User
-========
+In Setting
+==========
 
-In tab **User**:
+#. in tab
 
-1. In general setup **reStructuredText**:
-
-.. image:: /img/reStructuredText/user1.png
-    :width: 400
+.. image:: /img/reStructuredText/conf-setup1.png
+    :width: 650
     :alt: User Setup
 
-#. in subTab **Server**:
+#. in terminal
 
-.. image:: /img/reStructuredText/user2.png
-    :width: 400
+.. image:: /img/reStructuredText/conf-setup2.png
+    :width: 650
     :alt: User Setup
-
-#. in subTab **Sphinx**:
-
-.. image:: /img/reStructuredText/user3.png
-    :width: 400
-    :alt: User Setup
-
-.. image:: /img/reStructuredText/user4.png
-    :width: 400
-    :alt: User Setup
-
-
-.. note::
-    if wanna add image outside the current folder, try this:
-        ``.. image:: /img/reStructuredText/user4.png``
-.. image:: /img/reStructuredText/user5.png
