@@ -59,14 +59,14 @@ This is a complex table:
 - Advantage: suitable for mutable data.
 - Disadvantage: a bit hard compare to the simple table.
 
-.. _howToStart-cre-links:
+.. _howToStart-cre-link:
 
 Create Hyperlinks
 ==================
 
 See more:
 
-- `Setia Awan Live <https://go.setiaawan.com/desk/>`_
+- `Setia Awan Live <https://go.setiaawan.com/>`_
 - `Setia Awan Dev <http://192.168.10.41/desk/>`_
 - `iLagenda Dev <http://192.168.10.130/index/>`_
 

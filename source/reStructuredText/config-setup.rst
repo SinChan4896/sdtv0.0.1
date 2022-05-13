@@ -3,7 +3,7 @@ VS Code Config Setup
 
 Dont know how to start? Click here 
     - :ref:`Create Tables <howToStart-cre-table>`
-    - :ref:`Create Links <howToStart-cre-links>`
+    - :ref:`Create Links <howToStart-cre-link>`
 
 
 In Setting
@@ -30,6 +30,6 @@ Step 2: Add username same in Github
     :width: 400
     :alt: User Setup
 
-.. image:: img/reStructuredText/conf-setup3.png
+.. image:: |Error 404| img/reStructuredText/conf-setup3.png
     :width: 400
     :alt: User Setup
