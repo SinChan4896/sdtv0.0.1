@@ -13,20 +13,22 @@ In Setting
     :width: 650
     :alt: User Setup
 
-.. image:: /img/reStructuredText/conf-setup3.PNG
+.. image:: /img/reStructuredText/conf-setup3.png
     :width: 400
-    :alt: Useri Setup
+    :alt: User Setup
 
 In Terminal
 ===========
 
-.. image:: /img/reStructuredText/conf-setup2.png
-    :width: 650
-    :alt: User Setup
+Step 1: Add email  same in Github
+---------------------------------
 
-.. image:: /img/reStructuredText/conf-setup4.png
-    :width: 400
-    :alt: User Setup
+``git config --global user.email "email@tektician.com"``
+
+Step 2: Add username same in Github
+------------------------------------
+
+``git config --global user.name "Tek"``
 
 .. image:: /img/reStructuredText/conf-setup4.png
     :width: 400
