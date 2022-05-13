@@ -9,11 +9,8 @@ Dont know how to start? Click here
 In Setting
 ==========
 
-.. image:: /img/reStructuredText/conf-setup1.PNG
-    :width: 650
-    :alt: User Setup
 
-.. image:: /img/reStructuredText/conf-setup3.png
+.. image:: /img/reStructuredText/conf-setup1.png
     :width: 400
     :alt: User Setup
 
@@ -30,6 +27,6 @@ Step 2: Add username same in Github
 
 ``git config --global user.name "Tek"``
 
-.. image:: /img/reStructuredText/conf-setup4.png
+.. image:: /img/reStructuredText/conf-setup2.png
     :width: 400
     :alt: User Setup
