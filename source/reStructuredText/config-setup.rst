@@ -13,10 +13,21 @@ In Setting
     :width: 650
     :alt: User Setup
 
+.. image:: /img/reStructuredText/conf-setup3.PNG
+    :width: 400
+    :alt: Useri Setup
 
 In Terminal
 ===========
 
 .. image:: /img/reStructuredText/conf-setup2.png
     :width: 650
+    :alt: User Setup
+
+.. image:: /img/reStructuredText/conf-setup4.png
+    :width: 400
+    :alt: User Setup
+
+.. image:: /img/reStructuredText/conf-setup4.png
+    :width: 400
     :alt: User Setup
