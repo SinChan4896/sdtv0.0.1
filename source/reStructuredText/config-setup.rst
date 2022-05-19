@@ -1,5 +1,5 @@
 VS Code Config Setup
-====================
+=====================
 
 Dont know how to start? Click here 
     - :ref:`Create Tables <howToStart-cre-table>`

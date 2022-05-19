@@ -14,12 +14,7 @@ Helpp:
 ^^^^^^^
 Hi this is a testttttt.::
    
-   asdasd asdasd.asdasd
-   teetateatr
-      asdasd
-         asdasd
-   1. the docs must execute make html in Terminal in order to update the page.
-   2. unable to refresh the page or instant update in Live Server.
+   greedisgood 999999
 
 .. toctree::
    :maxdepth: 2
@@ -30,7 +25,7 @@ Hi this is a testttttt.::
    reStructuredText/main-file
    reStructuredText/config-github
    reStructuredText/config-choco
-   
+   reStructuredText/check
 
 
 .. toctree::

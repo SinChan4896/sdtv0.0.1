@@ -1,5 +1,5 @@
 Github Setup
-============
+=============
 
 Changing default branch from ``main`` to ``master``
 
